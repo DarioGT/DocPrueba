@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:[],search:[],est:[0,2],text:[0,2],modul:[],celui:[0,2],pour:[0,2],content:1,page:[]},objtypes:{},objnames:{},filenames:["Vote","index","dossier/pag1"],titles:["Title1","Welcome to marriane&#8217;s documentation!","Title1"],objects:{},titleterms:{welcom:1,tabl:[],indic:[],title1:[0,2],titr:[0,2],document:1,marrian:1}})
