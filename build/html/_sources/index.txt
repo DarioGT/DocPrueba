@@ -13,6 +13,10 @@ Contents:
 
    Vote
    dossier/pag1
+   
+   Home
+   index1
+
 
 
 .. Indices and tables
